@@ -1,0 +1,9 @@
+# pyenv
+.python-version
+.env
+
+# pycache
+**/__pycache__/
+
+# MacOS
+.DS_Store
