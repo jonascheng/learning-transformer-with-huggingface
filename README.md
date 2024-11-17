@@ -4,6 +4,10 @@
 
 ### [章節1：Hugging Face 初體驗](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-huggingface.ipynb)
 
-### [章節2：Transformer Encoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-encoder.ipynb)
+### [章節2：Transformer](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer.ipynb)
 
-### [章節3：Transformer Decoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-decoder.ipynb)
+# 參考資料
+
+- [NLP实战-Huggingface神器](https://www.udemy.com/course/nlp-huggingface/?srsltid=AfmBOoqxi590EHyXKB-FBc-OW3cDnZ5bpz8ZVAfhxDuSDEQK15kDPCiw)
+- [Introduction to Transformer Models for NLP](https://www.linkedin.com/learning/introduction-to-transformer-models-for-nlp/introduction?resume=false&u=373648218)
+- [Transformers: how do they work internally?](https://www.alexisalulema.com/2022/08/23/transformers-how-do-they-work-internally/)
