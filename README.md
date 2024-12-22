@@ -4,7 +4,7 @@
 
 ### [章節1：Hugging Face 初體驗](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-huggingface.ipynb)
 
-### [章節2：Transformer](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer.ipynb)
+### [章節2：Transformer 深入淺出](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer.ipynb)
 
 # 參考資料
 
