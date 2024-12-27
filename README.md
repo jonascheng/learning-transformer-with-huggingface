@@ -10,7 +10,7 @@
 
 #### [The decoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-decoder.ipynb)
 
-### [章節3：訓練PII偵測模型](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-ner.ipynb)
+### [章節3：訓練PII偵測模型 (NER)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-ner.ipynb)
 
 # 參考資料
 
