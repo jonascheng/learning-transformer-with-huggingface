@@ -4,13 +4,27 @@
 
 ### [章節1：Hugging Face 初體驗](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-huggingface.ipynb)
 
+分別以 Token Classification、Zero-Shot Classification 及 Image Classification 三個任務，示範如何使用 Hugging Face 的 Transformer 套件。
+
 ### [章節2：Transformer 深入淺出](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer.ipynb)
 
-#### [The encoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-encoder.ipynb)
+初探 Transformer 架構，介紹 Input Embedding 及 Positional Encoding。
 
-#### [The decoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-decoder.ipynb)
+#### [2.1 The encoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-encoder.ipynb)
 
-### [章節3：訓練PII偵測模型 (NER)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-ner.ipynb)
+進一步探討 Transformer Encoder 的運作原理。包含 Self-Attention、Multi-Head Attention 及 Feed-Forward Neural Network。
+
+#### [2.2 The decoder](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-transformer-decoder.ipynb)
+
+介紹 Transformer Decoder 的運作原理。包含 Masked Self-Attention、Multi-Head Attention 及 Feed-Forward Neural Network。最後簡單說明 Encoder, Decoder, Encoder-Decoder 三者的相關應用。
+
+### [章節3：訓練PII偵測模型 (Encoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-ner.ipynb)
+
+基於 Encoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 偵測模型。
+
+### [章節4：訓練PII遮掩模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-masking-encoder.ipynb)
+
+基於 Decoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 遮掩模型。
 
 # 參考資料
 
