@@ -29,6 +29,7 @@
 # 參考資料
 
 - [NLP实战-Huggingface神器](https://www.udemy.com/course/nlp-huggingface/?srsltid=AfmBOoqxi590EHyXKB-FBc-OW3cDnZ5bpz8ZVAfhxDuSDEQK15kDPCiw)
+- [手把手带你实战HuggingFace Transformers](https://youtube.com/playlist?list=PL2ecZnqc6-L7r8tSr6r3bYHsqkyChUVbM&si=W9f104zWreQ0tS7F)
 - [Introduction to Transformer Models for NLP](https://www.linkedin.com/learning/introduction-to-transformer-models-for-nlp/introduction?resume=false&u=373648218)
 - [Transformers: how do they work internally?](https://www.alexisalulema.com/2022/08/23/transformers-how-do-they-work-internally/)
 - [A Comprehensive Overview of Transformer-Based Models: Encoders, Decoders, and More](https://medium.com/@minh.hoque/a-comprehensive-overview-of-transformer-based-models-encoders-decoders-and-more-e9bc0644a4e5)
