@@ -18,7 +18,7 @@
 
 介紹 Transformer Decoder 的運作原理。包含 Masked Self-Attention、Multi-Head Attention 及 Feed-Forward Neural Network。最後簡單說明 Encoder, Decoder, Encoder-Decoder 三者的相關應用。
 
-### [章節3：訓練PII偵測模型 (Encoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-ner.ipynb)
+### [章節3：訓練PII偵測模型 (Encoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-decoder.ipynb)
 
 基於 Encoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 偵測模型。
 
