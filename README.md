@@ -1,6 +1,10 @@
 # 與 Hugging Face 共舞：認識 Transformer
 
-透過本文，您將了解 Transformer 的基本概念，並透過 Hugging Face 的 Transformer 套件深入瞭解。
+透過本文，您將了解 Transformer 的基本概念，我們將透過 Hugging Face 的 Transformer 套件手把手操作深入瞭解。
+
+課程規劃演練的部分，將以 Google Colab 為主要環境，並使用 Hugging Face 的 Transformer 套件進行操作。
+
+關於 Colab 的申請及使用，請參考 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)。
 
 ### [章節1：Hugging Face 初體驗](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/intro-huggingface.ipynb)
 
@@ -18,13 +22,15 @@
 
 介紹 Transformer Decoder 的運作原理。包含 Masked Self-Attention、Multi-Head Attention 及 Feed-Forward Neural Network。最後簡單說明 Encoder, Decoder, Encoder-Decoder 三者的相關應用。
 
-### [章節3：訓練PII偵測模型 (Encoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-decoder.ipynb)
+### [章節3：訓練PII偵測模型 (Encoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-detection-encoder.ipynb)
 
 基於 Encoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 偵測模型。
 
-### [章節4：訓練PII遮掩模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-masking-encoder.ipynb)
+### [章節4：訓練PII遮掩模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-masking-decoder.ipynb)
 
 基於 Decoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 遮掩模型。
+
+這個章節也會介紹半精度訓練及 Lora 訓練技巧。以此降低 GPU 記憶體需求，提升訓練效率。
 
 # 參考資料
 
