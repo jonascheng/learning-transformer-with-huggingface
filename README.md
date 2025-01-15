@@ -26,11 +26,15 @@
 
 基於 Encoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 偵測模型。
 
-### [章節4：訓練PII遮掩模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-masking-decoder.ipynb)
+### [章節4：訓練問答模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/qa-decoder.ipynb.ipynb)
 
-基於 Decoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 遮掩模型。
+基於 Decoder 預訓練模型，訓練一個問答模型。
 
 這個章節也會介紹半精度訓練及 Lora 訓練技巧。以此降低 GPU 記憶體需求，提升訓練效率。
+
+### 章節5：訓練語言模型 (Encoder-Decoder)
+
+基於 Encoder-Decoder 預訓練模型，訓練一個翻譯模型。
 
 # 參考資料
 
