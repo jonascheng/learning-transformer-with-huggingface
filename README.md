@@ -32,6 +32,10 @@
 
 這個章節也會介紹半精度訓練及 Lora 訓練技巧。以此降低 GPU 記憶體需求，提升訓練效率。
 
+### 章節5：訓練語言模型 (Encoder-Decoder)
+
+基於 Encoder-Decoder 預訓練模型，訓練一個翻譯模型。
+
 # 參考資料
 
 - [NLP实战-Huggingface神器](https://www.udemy.com/course/nlp-huggingface/?srsltid=AfmBOoqxi590EHyXKB-FBc-OW3cDnZ5bpz8ZVAfhxDuSDEQK15kDPCiw)
