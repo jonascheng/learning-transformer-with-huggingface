@@ -26,7 +26,7 @@
 
 基於 Encoder 預訓練模型，訓練一個 PII (Personal Identifiable Information) 偵測模型。
 
-### [章節4：訓練問答模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/qa-decoder.ipynb.ipynb)
+### [章節4：訓練問答模型 (Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/qa-decoder.ipynb)
 
 基於 Decoder 預訓練模型，訓練一個問答模型。
 
