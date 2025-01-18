@@ -10,3 +10,6 @@
 
 # sample_data
 sample_data/**
+
+# VSCode
+.vscode/
