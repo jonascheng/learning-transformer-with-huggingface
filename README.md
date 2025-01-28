@@ -30,7 +30,7 @@
 
 基於 Decoder-Only 預訓練模型，訓練一個問答模型。
 
-這個章節也會介紹半精度訓練及 Lora 訓練技巧。以此降低 GPU 記憶體需求，提升訓練效率。
+這個章節也會介紹半精度訓練及 LoRA 訓練技巧。以此降低 GPU 記憶體需求，提升訓練效率。
 
 ### [章節5：訓練語言模型 (Encoder-Decoder)](https://colab.research.google.com/github/jonascheng/learning-transformer-with-huggingface/blob/main/pii-masking-encode-decode.ipynb)
 
