@@ -43,4 +43,6 @@
 - [Introduction to Transformer Models for NLP](https://www.linkedin.com/learning/introduction-to-transformer-models-for-nlp/introduction?resume=false&u=373648218)
 - [Transformers: how do they work internally?](https://www.alexisalulema.com/2022/08/23/transformers-how-do-they-work-internally/)
 - [A Comprehensive Overview of Transformer-Based Models: Encoders, Decoders, and More](https://medium.com/@minh.hoque/a-comprehensive-overview-of-transformer-based-models-encoders-decoders-and-more-e9bc0644a4e5)
+- [How to Create Bert Vector Embeddings? A Comprehensive Tutorial](https://airbyte.com/data-engineering-resources/bert-vector-embedding)
+- [BERT Embeddings](https://tinkerd.net/blog/machine-learning/bert-embeddings/)
 - [台大資訊 深度學習之應用 | ADL TA Recitation: LLM LoRA Training 大型語言模型太大怎麼調整呢?](https://youtu.be/eGQMzbhokg0?si=CbbiGg_Osa5naA5A)
