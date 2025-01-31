@@ -38,11 +38,24 @@
 
 # 參考資料
 
+## 影視課程
+
 - [NLP实战-Huggingface神器](https://www.udemy.com/course/nlp-huggingface/?srsltid=AfmBOoqxi590EHyXKB-FBc-OW3cDnZ5bpz8ZVAfhxDuSDEQK15kDPCiw)
 - [手把手带你实战HuggingFace Transformers](https://youtube.com/playlist?list=PL2ecZnqc6-L7r8tSr6r3bYHsqkyChUVbM&si=W9f104zWreQ0tS7F)
+
+## 文章探討
+
+### Transformer
+
 - [Introduction to Transformer Models for NLP](https://www.linkedin.com/learning/introduction-to-transformer-models-for-nlp/introduction?resume=false&u=373648218)
 - [Transformers: how do they work internally?](https://www.alexisalulema.com/2022/08/23/transformers-how-do-they-work-internally/)
 - [A Comprehensive Overview of Transformer-Based Models: Encoders, Decoders, and More](https://medium.com/@minh.hoque/a-comprehensive-overview-of-transformer-based-models-encoders-decoders-and-more-e9bc0644a4e5)
+
+### Embeddings
 - [How to Create Bert Vector Embeddings? A Comprehensive Tutorial](https://airbyte.com/data-engineering-resources/bert-vector-embedding)
 - [BERT Embeddings](https://tinkerd.net/blog/machine-learning/bert-embeddings/)
+- [Beyond Attention: How Advanced Positional Embedding Methods Improve upon the Original Approach in Transformer Architecture](https://towardsdatascience.com/beyond-attention-how-advanced-positional-embedding-methods-improve-upon-the-original-transformers-90380b74d324)
+
+## 模型微調
+
 - [台大資訊 深度學習之應用 | ADL TA Recitation: LLM LoRA Training 大型語言模型太大怎麼調整呢?](https://youtu.be/eGQMzbhokg0?si=CbbiGg_Osa5naA5A)
