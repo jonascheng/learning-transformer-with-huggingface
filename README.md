@@ -52,9 +52,14 @@
 - [A Comprehensive Overview of Transformer-Based Models: Encoders, Decoders, and More](https://medium.com/@minh.hoque/a-comprehensive-overview-of-transformer-based-models-encoders-decoders-and-more-e9bc0644a4e5)
 
 ### Embeddings
+
 - [How to Create Bert Vector Embeddings? A Comprehensive Tutorial](https://airbyte.com/data-engineering-resources/bert-vector-embedding)
 - [BERT Embeddings](https://tinkerd.net/blog/machine-learning/bert-embeddings/)
 - [Beyond Attention: How Advanced Positional Embedding Methods Improve upon the Original Approach in Transformer Architecture](https://towardsdatascience.com/beyond-attention-how-advanced-positional-embedding-methods-improve-upon-the-original-transformers-90380b74d324)
+
+### Encoder
+
+- [BERT Encoder Layer](https://tinkerd.net/blog/machine-learning/bert-encoder/)
 
 ## 模型微調
 
