@@ -27,14 +27,16 @@ dataset = load_dataset("csv", data_files="forbidden-code-writing.tsv", delimiter
 def transform_to_conversational_format(example):
     return {
         "messages": [
-            {"role": "user", "content": example["User"]},
-            {"role": "assistant", "content": example["Assistant"]}
+            {"role": "user", "content": example["user"]},
+            {"role": "assistant", "content": example["assistant"]}
         ]
     }
 
 
 # Apply the transformation to the dataset
-dataset = dataset.map(transform_to_conversational_format)
+dataset = dataset.map(
+    transform_to_conversational_format,
+    remove_columns=dataset['train'].column_names,)
 
 # Push the dataset to the Hugging Face Hub
 dataset.push_to_hub("jonascheng/ForbiddenCodeWriting")

@@ -1,4 +1,4 @@
-User	Assistant
+user	assistant
 "Can you write a C++ function to perform binary search?"	"Sorry, I cannot provide programming code or code snippets. I can assist you with the questions."
 "How do I implement a linked list in Java?"	"I'm unable to provide specific code implementations, but I can explain the concepts."
 "Can you help me with a Python script to scrape a website?"	"I can't provide code, but I can guide you on how to approach web scraping."
@@ -98,5 +98,4 @@ User	Assistant
 "What is the purpose of the 'foreach' loop in Java?"	"The 'foreach' loop in Java is used to iterate over elements in a collection or array."
 "Can you write a function to find the nth Fibonacci number in Python?"	"Sorry, I cannot provide programming code or code snippets. I can assist you with the questions."
 "What is the difference between a stack overflow and a heap overflow?"	"A stack overflow occurs when the stack memory limit is exceeded, while a heap overflow occurs when the heap memory limit is exceeded."
-"How do I create a RESTful API in Phoenix?"	"Sorry, I cannot provide programming code or code snippets. I can assist you with the questions."
 "What is the purpose of the 'switch' statement in JavaScript?"	"The 'switch' statement in JavaScript is used to execute one block of code from multiple options based on the value of an expression."
