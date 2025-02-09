@@ -1,3 +1,6 @@
 # for jupyter
 jupyterlab
 
+# for huggingface repo
+huggingface_hub[cli]
+datasets~=3.2.0
