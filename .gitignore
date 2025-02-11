@@ -1,6 +1,7 @@
 # pyenv
 .python-version
 .env
+.ipynb_checkpoints/
 
 # pycache
 **/__pycache__/
@@ -8,8 +9,11 @@
 # MacOS
 .DS_Store
 
-# sample_data
+# sample data
 sample_data/**
+
+# saved model
+saved_model/**
 
 # VSCode
 .vscode/
